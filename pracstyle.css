@@ -1,0 +1,38 @@
+.col-xs-12
+{
+  margin:10px;
+}
+
+
+.nav-item
+{
+  margin-top:10px;
+}
+.nav-item a
+{ background-color:violet;
+  text-align:center;
+  font-size:22px;
+}
+
+.nav-item a:hover
+{
+background-color:brown;
+}
+.navbar 
+{
+  background-color:burlywood;
+}
+.navbar-brand
+{ padding-left: 20px;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.box
+{
+  background-color: cornflowerblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 15px;
+  text-align: justify;
+}
